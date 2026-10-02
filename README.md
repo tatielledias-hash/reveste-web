@@ -12,10 +12,6 @@ A proposta converte o guarda-roupa ocioso em moeda de troca, incentivando o cons
 
 Este projeto foi desenvolvido de forma colaborativa como trabalho acadêmico (PUC) utilizando a metodologia ágil **Scrum**. No desenvolvimento do ecossistema, assumi frentes estratégicas tanto na lógica quanto na experiência de interface:
 
-*   **Desenvolvimento de Interfaces:** Implementação responsiva completa das páginas de Login/Cadastro, Explorar, Detalhes da Peça, Histórico de Trocas e Edição de Peças.
-*   **Lógica de Back-End:** Construção de controllers e rotinas de validação para o fluxo de cadastro e persistência de novos usuários e peças de vestuário.
-*   **Engenharia de Requisitos & Testes:** Concepção da documentação estrutural, diagramas iniciais e execução/registro dos planos de testes de software e usabilidade.
-*   **Gestão Ágil:** Controle de tarefas e atuação na organização geral das entregas e sprints da equipe.
 
 ---
 
